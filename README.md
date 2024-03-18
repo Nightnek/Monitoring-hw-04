@@ -7,6 +7,7 @@
 ---
 
 ## Задание 2
+![image](https://github.com/Nightnek/Monitoring-hw-04/assets/127677631/3579c70f-85c7-444a-92b0-07df69fea667)
 
 
 
