@@ -1,6 +1,7 @@
 # 9-04 Стасенко Григорий Домашнее задание к занятию «Система мониторинга Prometheus» 9-04
 
 ## Задание 1
+![image](https://github.com/Nightnek/Monitoring-hw-04/assets/127677631/46a476f6-c1b7-4cee-a072-507969d7962b)
 
 
 ---
