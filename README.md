@@ -21,4 +21,9 @@
 ---
 ## Задание 4
 
+![image](https://github.com/Nightnek/Monitoring-hw-04/assets/127677631/7ee1cd26-603f-43df-90aa-e64a9947c350)
 
+---
+## Задание 5
+
+![image](https://github.com/Nightnek/Monitoring-hw-04/assets/127677631/9b7a0319-2c4b-4b18-8e3c-8bb8cae5f472)
